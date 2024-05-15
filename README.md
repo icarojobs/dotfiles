@@ -1,6 +1,14 @@
 # dotfiles
 My personal dotfiles
 
+## USAGE
+```bash
+cd ~
+git clone git@github.com:icarojobs/dotfiles.git .dotfiles
+cd .dotfiles
+stow .
+```
+
 ## INSTALLING GNU STOW AND TREE
 ```bash
 sudo apt update
